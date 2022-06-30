@@ -4,4 +4,4 @@ A Simple MVVM project to study the implementation of the Google Maps API, using 
 An alternative Map Style was also implemented.
 
 
-Based on the project of Phillip Lackner [ParkingSpotFinder](https://github.com/philipplackner/ParkingSpotFinder)
+Based on the project of Phillip Lackner - [ParkingSpotFinder](https://github.com/philipplackner/ParkingSpotFinder)
