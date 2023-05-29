@@ -33,7 +33,7 @@ Certifique-se de ter o Android Studio configurado em seu ambiente de desenvolvim
 
 ## Contribuição 🤝
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma [issue](https://github.com/seu-usuario/MapSpot/issues) ou enviar um [pull request](https://github.com/seu-usuario/MapSpot/pulls).
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma [issue](https://github.com/wagarcdev/MapSpot/issues) ou enviar um [pull request](https://github.com/seu-usuario/MapSpot/pulls).
 
 ## Autor 👤
 
